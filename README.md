@@ -4,11 +4,11 @@
 
 </br>
 
-- 🔭 I’m currently working on a desktop application using **Electron.js**
+- 🔭 I’m currently working on geo spatial visualization as a Research Assistant at NASA GHRC DAAC, ITSC, UAH
 
-- 🌱 I’m currently learning **Python for Data Science**
+- 🌱 I’m currently using **Python for Data Processing**, **Reactjs for Web Frontend**,  **CESIUM for visualization**, and **AWS for Infrastructure** 
 
-- 💬 Ask me about **Electron.js, Node.js, React.js, React native**
+- 💬 Ask me about **Node.js, React.js, Cesium, Serverless, AWS, Electron.js, React native**
 
 - 📫 How to reach me **sanzog03@gmail.com**
 
