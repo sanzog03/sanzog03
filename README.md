@@ -1,4 +1,4 @@
-[![MasterHead](./banner.png)](https://github.com/sanzog03/sanzog03)
+[![MasterHead](./banner_new.png)](https://github.com/sanzog03/sanzog03)
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanzog03" alt="sanzog03" /></a> </p> -->
 
